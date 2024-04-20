@@ -1,0 +1,17 @@
+.hero{
+    
+   background: url(img/adven.jpg1.webp) no-repeat;
+   height: 100vh;
+
+}
+.header{
+    background: url(img/p1.jpg) no-repeat;
+    height: 80vh;
+}
+
+/* gallery */
+
+.g-border{
+    border-bottom: 3px solid;
+    
+}
